@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1612780848 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\main.cpp
+	<iostream>
+	"PersonalBudget.h"
+
+1612701675 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\auxiliarymethods.cpp
+	"AuxiliaryMethods.h"
+
+1613037281 d:\private!\praca\przyszlyprogramista\budzetosobisty\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<string>
+	<cstdlib>
+
+1613036964 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\expense.cpp
+	"Expense.h"
+
+1613037083 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1613036924 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1613036422 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithusers.cpp
+	"FileWithUsers.h"
+
+1612962067 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\finances.cpp
+	"Finances.h"
+
+1613036576 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\financialstatement.cpp
+	"FinancialStatement.h"
+
+1613036863 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\income.cpp
+	"Income.h"
+
+1613036768 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\operationsondates.cpp
+	"OperationsOnDates.h"
+
+1613036224 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\personalbudget.cpp
+	"PersonalBudget.h"
+
+1612779909 d:\private!\praca\przyszlyprogramista\budzetosobisty\personalbudget.h
+	<iostream>
+	"UserManager.h"
+	"FinancialStatement.h"
+
+1613036250 d:\private!\praca\przyszlyprogramista\budzetosobisty\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"User.h"
+	"FileWithUsers.h"
+	"XmlFile.h"
+	"AuxiliaryMethods.h"
+
+1610969212 d:\private!\praca\przyszlyprogramista\budzetosobisty\user.h
+	<iostream>
+
+1610964674 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\textfile.cpp
+
+1610969556 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\user.cpp
+	"User.h"
+
+1613036303 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\usermanager.cpp
+	"UserManager.h"
+
+1613036849 d:\private!\praca\przyszlyprogramista\budzetosobisty\income.h
+	<iostream>
+	"Finances.h"
+
+1613036952 d:\private!\praca\przyszlyprogramista\budzetosobisty\expense.h
+	<iostream>
+	"Finances.h"
+
+1613036511 d:\private!\praca\przyszlyprogramista\budzetosobisty\financialstatement.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"Income.h"
+	"Expense.h"
+	"OperationsOnDates.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	"Money.h"
+	"Finances.h"
+
+1613036633 d:\private!\praca\przyszlyprogramista\budzetosobisty\operationsondates.h
+	<iostream>
+	<time.h>
+	<windows.h>
+	"AuxiliaryMethods.h"
+
+1612876247 d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"User.h"
+	"AuxiliaryMethods.h"
+	"XmlFile.h"
+
+1613037094 d:\private!\praca\przyszlyprogramista\budzetosobisty\xmlfile.h
+	<iostream>
+	"Markup.h"
+
+-1 d:\private!\praca\przyszlyprogramista\budzetosobisty\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+-1 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1613037104 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\xmlfile.cpp
+	"XmlFile.h"
+
+1613036879 d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithincomes.h
+	<iostream>
+	<vector>
+	"Income.h"
+	"AuxiliaryMethods.h"
+	"XmlFile.h"
+	"OperationsOnDates.h"
+
+1613037032 d:\private!\praca\przyszlyprogramista\budzetosobisty\filewithexpenses.h
+	<iostream>
+	<vector>
+	"Expense.h"
+	"AuxiliaryMethods.h"
+	"XmlFile.h"
+	"OperationsOnDates.h"
+
+1612864738 d:\private!\praca\przyszlyprogramista\budzetosobisty\money.h
+	<iostream>
+	"AuxiliaryMethods.h"
+
+1613036813 source:d:\private!\praca\przyszlyprogramista\budzetosobisty\money.cpp
+	"Money.h"
+
+1613036595 d:\private!\praca\przyszlyprogramista\budzetosobisty\finances.h
+	<iostream>
+
